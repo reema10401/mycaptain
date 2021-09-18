@@ -1,0 +1,6 @@
+public class numberofminutes{
+int=3456789;
+}
+public static void main(string[]args){
+system.out.println("3456789 is approximately 6 years and 210 days")
+}
